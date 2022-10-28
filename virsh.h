@@ -1,4 +1,3 @@
-
 #define VIRSH_OUTPUT_MAX 8192
 
 enum {
